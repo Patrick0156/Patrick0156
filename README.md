@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 🫀 👋
 
-<!--
-**Patrick0156/Patrick0156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Patrick
 
-Here are some ideas to get you started:
+-Estou Focado no progresso 'desistir não é o destino'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estudo JavaScript Naõ sou muito bom
+
+-Então me acompanha na minha jornada
+
+### Vocês Podem Acessar Meus projetos Por aqui 🥇
+
+![image](https://github.com/Patrick0156/Patrick0156/assets/172455256/fe3cf4b1-7459-4c3c-abde-f6a491588aea)
